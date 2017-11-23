@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+Welcome to Almubarak Enterprises Nigeria LIMITED</h2>
+ <h1> <p class="Mallam">Almubarak Enterprises NIGERIA LIMITED, HOME OF UNREFINED SHEA BUTTER </h1>
 
-You can use the [editor on GitHub](https://github.com/almubarakemterprises/Octocat.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/almubarakemterprises/Octocat.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>Shea Butter is the fatty acid extracted from the Kernels of Vitellaria Paradoxa (Sapotaceae), which is also known as Butyrospermum.
+ The Butyrospermum species is found across 19 countries across the African Savanna Zone from Senegal to Ethiopia. Shea Butter contains high level of UV absorbing 
+ Tri-Terpe ne esters, including Cinnamic Acid, Tocopherols (Vitamin A & E). Shea  butter contains high concentration of unsaponifiables matter, which accounts for its healing properties. 
+ Shea butter is composed of five principal fatty acids:  
+Palmitic, Stearic, Oleic, Linoleic and Arachidic. The fatty acid composition is dominated by Stearic and Oleic Acids, which accounts for 75% – 92% of the fatty acids composition. 
+The relative proportions of these two fatty acids produces differences in Shea Butter consistency. 
+The high Stearic acid content gives the Shea butter its solid consistency while the percentage of Oleic acid influences how soft or hard the Shea butter is. </h2>
+</p>
